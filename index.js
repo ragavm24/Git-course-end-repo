@@ -1,3 +1,3 @@
-var texts = "I am your JavaScript Program";
+var texts = "Hello World";
 
 console.log(texts);
